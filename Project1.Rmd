@@ -2,7 +2,7 @@
 title: 'Statistical Inference Course Project, Part 1: Simulation Exercises'
 author: "Niraj Patel"
 date: "October 24, 2015"
-output: word_document
+output: html_document
 ---
 
 #Simulation
